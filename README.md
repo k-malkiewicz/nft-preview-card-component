@@ -8,7 +8,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ## Links
 
-- Live Site URL (I use Netlify for websites hosting) ⇒
+- Live Site URL (I use Netlify for websites hosting) ⇒ https://nft-preview-card-km9.netlify.app
 
 ## Built with
 
